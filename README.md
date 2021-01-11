@@ -1,2 +1,2 @@
-# 2020-Stock-Market-Analysis
-Analyzing and comparing the performance of the S&amp;P500 in 2020
+# 2020 StockMarket Analysis
+[Read the article on Medium](https://tomsharp.medium.com/how-did-the-stock-market-do-in-2020-d2acb894b66d)
